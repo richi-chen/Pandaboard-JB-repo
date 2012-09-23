@@ -33,7 +33,7 @@
 	<!--richi common for apps, firmwares-->
   <project path="device/richi-common" name="richi-chen/richi-common" remote="github" revision="master" />
 	<!--richi-panda device repo -->
-  <project path="richi-chen/device_ti_richi-panda_jb" name="richi-chen/device-ti-panda" remote="github" revision="master" />
+  <project path="device/ti/richi-panda" name="richi-chen/device_ti_richi-panda_jb" remote="github" revision="master" />
 
 	<!--omappedia panda kernel-->
    <project path="kernel" name="kernel/omap" revision="9aef2955cf408fcc0d605cac3f4de799de5a38ce" />
