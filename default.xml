@@ -36,8 +36,8 @@
   <project path="device/ti/richi-panda" name="richi-chen/device_ti_richi-panda_jb" remote="github" revision="master" />
 
 	<!--omappedia panda kernel-->
-   <!--<project path="kernel" name="kernel/omap" revision="1f21f8ed30c1d6abd029b67d17106042930a93d2" />-->
-   <project path="kernel" name="kernel/omap" revision="cda0054a3304d5fb744e4ff26f5f72b4fcf1a572" />
+   <project path="kernel" name="kernel/omap" revision="1f21f8ed30c1d6abd029b67d17106042930a93d2" />
+   <!--<project path="kernel" name="kernel/omap" revision="cda0054a3304d5fb744e4ff26f5f72b4fcf1a572" />-->
 
 	<!--rowboat beagle kernel-->
   <!--<project path="kernel.beagle" name="kernel" revision="rowboat-ics-kernel-2.6.37" remote="rowboat" />-->
